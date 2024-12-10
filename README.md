@@ -1,2 +1,4 @@
 # game-throwing-dice
-Game "Throwing dice"
+Link: https://game-pig-js.netlify.app/
+
+Tech stack: JS, CSS + HTML
